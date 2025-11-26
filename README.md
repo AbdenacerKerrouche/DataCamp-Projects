@@ -21,18 +21,16 @@ This repository contains projects I have completed on [DataCamp](https://www.dat
 
 ## How to Use
 
-1. Clone the repository:
-
 ```bash
+# Clone the repository
 git clone https://github.com/yourusername/DataCamp-Projects.git
-Navigate to the project folder:
 
+# Navigate to the project folder
 cd DataCamp-Projects
 
-
-Open the Jupyter Notebook files to explore each project interactively.
-
-Next Steps / Upcoming Projects
+# Open the Jupyter Notebook files to explore each project interactively
+```
+## Next Steps / Upcoming Projects
 
 Add more projects from DataCamp (Python, R, SQL, and Machine Learning courses)
 
@@ -42,10 +40,10 @@ Improve visualizations with Seaborn and Plotly for interactive dashboards
 
 Build a portfolio-ready summary notebook to showcase skills for freelancing or job applications
 
-About Me
+## About Me
 
 I am a student at ENSSEA specializing in statistics and data science. This repository showcases my growth and practical skills in analyzing real-world datasets and applying data science methods.
 
-License
+## License
 
 This repository is for learning purposes. Feel free to explore and provide feedback.
