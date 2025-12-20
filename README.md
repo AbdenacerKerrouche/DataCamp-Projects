@@ -40,22 +40,13 @@ This repository contains projects I have completed on [DataCamp](https://www.dat
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/DataCamp-Projects.git
+git clone https://github.com/AbdenacerKerrouche/DataCamp-Projects.git
 
 # Navigate to the project folder
 cd DataCamp-Projects
 
 # Open the Jupyter Notebook files to explore each project interactively
 ```
-## 🔜 Next Steps / Upcoming Projects
-
-Add more projects from DataCamp (Python, R, SQL, and Machine Learning courses)
-
-Include detailed analysis of datasets in finance, healthcare, and social sciences
-
-Improve visualizations with Seaborn and Plotly for interactive dashboards
-
-Build a portfolio-ready summary notebook to showcase skills for freelancing or job applications
 
 ## 🙋 About Me
 
