@@ -23,6 +23,7 @@ This repository contains projects I have completed on [DataCamp](https://www.dat
 |---------|-------------|--------------|
 | **Investigating Netflix Movies** | Perform exploratory data analysis on Netflix movie data to uncover insights about movies from a particular decade for a production company. | Python, Pandas, Matplotlib, Data Visualization |
 | **Exploring NYC Public School Test Result Scores** | Analyze standardized test performance data across New York City public schools to identify top-performing schools, variations by borough, and city-wide trends. | Python, Pandas, Data Manipulation, Summary Statistics |
+| **Analyzing Nobel Prize Winners** | Analyze Nobel Prize winner data to identify patterns in gender, birth country, US-born ratios by decade, female ratios by category, and individuals with multiple awards. | Python, Pandas, Seaborn, Data Cleaning, Data Analysis, Visualization |
 
 ---
 
@@ -46,12 +47,3 @@ git clone https://github.com/AbdenacerKerrouche/DataCamp-Projects.git
 cd DataCamp-Projects
 
 # Open the Jupyter Notebook files to explore each project interactively
-```
-
-## 🙋 About Me
-
-I am a student at ENSSEA specializing in statistics and data science. This repository showcases my growth and practical skills in analyzing real-world datasets and applying data science methods.
-
-## 📄 License
-
-This repository is for learning purposes. Feel free to explore and provide feedback.
