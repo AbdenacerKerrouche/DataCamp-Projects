@@ -47,8 +47,10 @@ cd DataCamp-Projects
 
 # Open the Jupyter Notebook files to explore each project interactively
 ```
- ## 🙋 About Me I am a student at ENSSEA specializing in statistics and data science.
+ ## 🙋 About Me 
+ I am a student at ENSSEA specializing in statistics and data science.
 This repository showcases my growth and practical skills in analyzing real-world datasets and applying data science methods.
 
- ## 📄 License This repository is for learning purposes.
+ ## 📄 License 
+ This repository is for learning purposes.
 Feel free to explore and provide feedback.
