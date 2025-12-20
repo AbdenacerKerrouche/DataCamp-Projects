@@ -11,7 +11,6 @@ This repository contains projects I have completed on [DataCamp](https://www.dat
 - [Projects](#projects)
 - [Skills Demonstrated](#skills-demonstrated)
 - [How to Use](#how-to-use)
-- [Next Steps / Upcoming Projects](#next-steps--upcoming-projects)
 - [About Me](#about-me)
 - [License](#license)
 
