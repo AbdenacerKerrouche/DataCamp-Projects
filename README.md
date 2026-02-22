@@ -95,7 +95,7 @@ The Nobel Prize has been awarded since 1901. Are there biases in who receives it
 
 ## 📬 Contact
 
-- **LinkedIn:** [abdenacer-kerrouche](https://linkedin.com/in/abdenacer-kerrouche)
+- **LinkedIn:** [abdenacer-kerrouche](www.linkedin.com/in/abdenacer-kerrouche-8a347734b)
 - **GitHub:** [AbdenacerKerrouche](https://github.com/AbdenacerKerrouche)
 - **Email:** [abdenacerkerrouche74@gmail.com](mailto:abdenacerkerrouche74@gmail.com)
 
