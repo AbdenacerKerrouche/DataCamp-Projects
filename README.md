@@ -13,7 +13,7 @@ Copy
 
 A curated collection of guided data analysis and machine learning projects completed on [DataCamp](https://www.datacamp.com/). Each project applies real-world datasets to answer meaningful analytical questions using Python.
 
-> **About me:** Fourth-year Statistics & Data Science student at ENSSEA, Algeria. Focused on machine learning, data analysis, and statistical modeling. See my full profile on [LinkedIn](https://linkedin.com/in/abdenacer-kerrouche) or visit my [GitHub](https://github.com/AbdenacerKerrouche).
+> **About me:** Fourth-year Statistics & Data Science student at ENSSEA, Algeria. Focused on machine learning, data analysis, and statistical modeling. See my full profile on [LinkedIn](www.linkedin.com/in/abdenacer-kerrouche-8a347734b) or visit my [GitHub](https://github.com/AbdenacerKerrouche).
 
 ---
 
