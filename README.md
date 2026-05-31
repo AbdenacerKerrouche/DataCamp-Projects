@@ -1,7 +1,3 @@
-
-Readme · MD
-Copy
-
 # 📊 DataCamp Projects — Abdenacer Kerrouche
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -80,6 +76,20 @@ The Nobel Prize has been awarded since 1901. Are there biases in who receives it
 
 ---
 
+### ✈️ [Time Series Analysis for Transportation](./time-series-transportation/)
+
+**Domain:** Sports Logistics · **Skills:** Time Series Forecasting, SARIMAX, Event Tracking
+
+A fictional 22nd-century sports league needs to optimize its private jet fleet and project fuel costs for the 2102 season. This project combines flight schedule analysis with SARIMAX-based fuel price forecasting to answer two operational questions.
+
+**Key questions answered:**
+- What is the maximum number of teams simultaneously in flight during the 2102 season?
+- What is the projected total jet fuel spend across all 2102 flights?
+
+**Tools used:** `pandas`, `numpy`, `statsmodels`, `matplotlib`, `scipy`
+
+---
+
 ## 🛠️ Tech Stack
 
 | Category | Tools |
@@ -87,7 +97,7 @@ The Nobel Prize has been awarded since 1901. Are there biases in who receives it
 | Language | Python |
 | Data Manipulation | Pandas, NumPy |
 | Visualization | Matplotlib, Seaborn |
-| ML / Modeling | Scikit-learn, SciPy |
+| ML / Modeling | Scikit-learn, SciPy, statsmodels |
 | Deployment | Streamlit |
 | Environment | Jupyter Notebook, VS Code |
 
@@ -103,3 +113,4 @@ The Nobel Prize has been awarded since 1901. Are there biases in who receives it
 
 <p align="center">
   <i>Projects completed as part of the DataCamp Data Analyst Career Track.</i>
+</p>
