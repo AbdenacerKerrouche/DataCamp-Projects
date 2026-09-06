@@ -90,6 +90,25 @@ A fictional 22nd-century sports league needs to optimize its private jet fleet a
 
 ---
 
+### 🧑‍💻 [Customer Analytics: Preparing Data for Modeling](./Customer%20Analytics%20Preparing%20Data%20for%20Modeling/)
+
+**Domain:** Customer Analytics · **Skills:** Data Preparation, Data Types, Categorical Data, Memory Optimization
+
+Training Data Ltd. wants to efficiently prepare course enrollee data for a model that predicts whether students are looking for a job. This project focuses on transforming and filtering the dataset so it is more memory-efficient and ready for machine learning.
+
+**Key tasks completed:**
+- Converted binary categorical columns to Boolean (`bool`) data types.
+- Converted integer-only columns to 32-bit integers (`int32`).
+- Converted floating-point columns to 16-bit floats (`float16`).
+- Converted nominal categorical variables to the `category` data type.
+- Created ordered categorical variables while preserving their natural order.
+- Filtered the dataset to students with **10+ years of experience** working at companies with **1,000+ employees**.
+- Reduced memory usage through appropriate data type optimization.
+
+**Tools used:** `pandas`
+
+---
+
 ## 🛠️ Tech Stack
 
 | Category | Tools |
